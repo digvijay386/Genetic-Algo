@@ -1,5 +1,5 @@
-Report
-8 Queens
+
+#8 Queens
 Changes introduced for better results
 1. Mutation function: The mutation function now chooses a column and changes
 the position of the queen in that column in such a way that it meets the following
